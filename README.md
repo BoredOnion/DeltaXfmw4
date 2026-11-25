@@ -12,3 +12,8 @@ Note:
 # Tips
 
 best for dark backgrounds
+
+# Third-party resources
+
+the borders were taken from [Sprite Resources](https://www.spriters-resource.com/pc_computer/deltarune/asset/110943/) <br>
+everything else is hand made by me
